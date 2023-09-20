@@ -1,4 +1,4 @@
-package src.main.java.list;
+package src.main.java.list.operacoesBasicas;
 
 public class Tarefa {
   //atributo
